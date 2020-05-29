@@ -1,0 +1,11 @@
+Started on May 18, 2020 1:49:21 PM
+Started by event from 140.82.115.248 ⇒ http://datatables.ngrok.io:8080/github-webhook/ on Mon May 18 13:49:21 UTC 2020
+Using strategy: Default
+[poll] Last Built Revision: Revision b5d01332dd277c1a9aa41e3d5ea1f166213eeeae (refs/remotes/origin/master)
+No credentials specified
+ > git --version # timeout=10
+ > git ls-remote -h git@github.com:DataTables/Buttons.git # timeout=10
+Found 2 remote heads on git@github.com:DataTables/Buttons.git
+[poll] Latest remote head revision on refs/heads/master is: b5d01332dd277c1a9aa41e3d5ea1f166213eeeae - already built by 64
+Done. Took 1.4 sec
+No changes

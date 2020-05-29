@@ -1,0 +1,11 @@
+commit 0475916630e52088599148bc7d7bba6e367f35f0
+tree 3a67c9e5ba55f84e6ee57a817e398b52b9e34ad2
+parent 314b2ee32502c1ecc82c7a37e7bfa0f1eea92a23
+author alex <alex@lojix.com> 2020-05-29 09:20:39 -0500
+committer alex <alex@lojix.com> 2020-05-29 09:20:39 -0500
+
+    Fix typo in "enabled" function
+
+
+
+:100644 100644 92d34f4476ae886a85aa7cc67d5a0c5cd05a3829 9ea075d331efac1dc0e43aece9601104484f7cd9 M	js/dataTables.fixedHeader.js

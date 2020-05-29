@@ -1,0 +1,11 @@
+Started on May 11, 2020 12:58:22 PM
+Started by event from 192.30.252.99 ⇒ http://datatables.ngrok.io:8080/github-webhook/ on Mon May 11 12:58:22 UTC 2020
+Using strategy: Default
+[poll] Last Built Revision: Revision ce6becfa5672b53cb7c8d0e43ed946a8b6a876d1 (refs/remotes/origin/master)
+No credentials specified
+ > git --version # timeout=10
+ > git ls-remote -h git@github.com:DataTables/FixedColumns.git # timeout=10
+Found 1 remote heads on git@github.com:DataTables/FixedColumns.git
+[poll] Latest remote head revision on refs/heads/master is: 855d06ecee26f34aef2aac1707ad89b429974bd2
+Done. Took 1.3 sec
+Changes found

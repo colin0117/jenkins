@@ -1,0 +1,11 @@
+Started on May 26, 2020 9:50:58 AM
+Started by event from 140.82.115.249 ⇒ http://datatables.ngrok.io:8080/github-webhook/ on Tue May 26 09:50:58 UTC 2020
+Using strategy: Default
+[poll] Last Built Revision: Revision c8f5c418bf9da4e8e499651505f08582e8e8932f (refs/remotes/origin/master)
+No credentials specified
+ > git --version # timeout=10
+ > git ls-remote -h git@github.com:DataTables/SearchPanes.git # timeout=10
+Found 2 remote heads on git@github.com:DataTables/SearchPanes.git
+[poll] Latest remote head revision on refs/heads/master is: 9069540cc5d2c59acec530ff9f7eb2bb514eebb0
+Done. Took 1.2 sec
+Changes found

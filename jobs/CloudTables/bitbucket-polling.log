@@ -1,0 +1,10 @@
+Started on May 28, 2020 11:22:53 AM
+Using strategy: Default
+[poll] Last Built Revision: Revision fdd690c620e64f213be931f11ad405701044c24b (refs/remotes/origin/master)
+No credentials specified
+ > git --version # timeout=10
+ > git ls-remote -h git@bitbucket.org:sprymedia/cloudtables.git # timeout=10
+Found 2 remote heads on git@bitbucket.org:sprymedia/cloudtables.git
+[poll] Latest remote head revision on refs/heads/master is: ec2fd65dfb889f634a89d0d380f07c6ebdd8cbfc
+Done. Took 1.1 sec
+Changes found

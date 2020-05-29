@@ -1,0 +1,42 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.model.UserIdMapper>
+  <version>1</version>
+  <idToDirectoryNameMap class="concurrent-hash-map">
+    <entry>
+      <string>mrks83</string>
+      <string>mrks83_4610199393365665339</string>
+    </entry>
+    <entry>
+      <string>colin</string>
+      <string>colin_5508035908632940082</string>
+    </entry>
+    <entry>
+      <string>cloudtables</string>
+      <string>cloudtables_1092185298654093907</string>
+    </entry>
+    <entry>
+      <string>alex</string>
+      <string>Alex_103766559986577480</string>
+    </entry>
+    <entry>
+      <string>suwa-mitsuo</string>
+      <string>suwamitsuo_7956864366477005155</string>
+    </entry>
+    <entry>
+      <string>noreply</string>
+      <string>noreply_6876114032799189732</string>
+    </entry>
+    <entry>
+      <string>allan</string>
+      <string>allan_3143513566025577540</string>
+    </entry>
+    <entry>
+      <string>sandy</string>
+      <string>sandy_606143365102796953</string>
+    </entry>
+    <entry>
+      <string>office</string>
+      <string>office_6886698928960704775</string>
+    </entry>
+  </idToDirectoryNameMap>
+</hudson.model.UserIdMapper>

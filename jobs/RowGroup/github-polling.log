@@ -1,0 +1,11 @@
+Started on May 11, 2020 1:21:02 PM
+Started by event from 140.82.115.241 ⇒ http://datatables.ngrok.io:8080/github-webhook/ on Mon May 11 13:21:02 UTC 2020
+Using strategy: Default
+[poll] Last Built Revision: Revision 0eb69ef1c70286ebd64c12f59bbee8016d72027e (refs/remotes/origin/master)
+No credentials specified
+ > git --version # timeout=10
+ > git ls-remote -h git@github.com:DataTables/RowGroup.git # timeout=10
+Found 1 remote heads on git@github.com:DataTables/RowGroup.git
+[poll] Latest remote head revision on refs/heads/master is: fd9824e67e29bf5fca57bf869d7d3e54a1dfb2e2
+Done. Took 1.4 sec
+Changes found
