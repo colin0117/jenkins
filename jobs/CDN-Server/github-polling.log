@@ -1,11 +1,5 @@
-Started on Apr 28, 2020 6:16:46 PM
-Started by event from 140.82.115.247 ⇒ http://datatables.ngrok.io:8080/github-webhook/ on Tue Apr 28 18:16:46 UTC 2020
-Using strategy: Default
-[poll] Last Built Revision: Revision 2b3c47dbd7f4ece403c56b974d914660758a0e29 (refs/remotes/origin/master)
-No credentials specified
- > git --version # timeout=10
- > git ls-remote -h git@github.com:DataTables/CDN-Server.git # timeout=10
-Found 1 remote heads on git@github.com:DataTables/CDN-Server.git
-[poll] Latest remote head revision on refs/heads/master is: 6be39ff049f2dab2b68fd39bb757cc0d9114f7a3
-Done. Took 1.3 sec
+Started on 15-Sep-2020 16:48:47
+Started by event from 140.82.115.247 ⇒ http://datatables.ngrok.io:8080/github-webhook/ on Tue Sep 15 16:48:47 BST 2020
+No existing build. Scheduling a new one.
+Done. Took 0 ms
 Changes found

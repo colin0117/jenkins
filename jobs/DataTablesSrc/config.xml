@@ -45,7 +45,8 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>sh /vagrant/ci_test_dt.sh</command>
+      <command>ssh vagrant@192.168.234.234 &quot;JOB_NAME=$JOB_NAME sh /vagrant/ci_test_dt.sh&quot;</command>
+      <configuredLocalRules/>
     </hudson.tasks.Shell>
   </builders>
   <publishers>

@@ -26,7 +26,8 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>sh /vagrant/run_website_tests.sh</command>
+      <command>ssh vagrant@192.168.234.234 &quot;sh /vagrant/run_website_tests.sh&quot;</command>
+      <configuredLocalRules/>
     </hudson.tasks.Shell>
   </builders>
   <publishers/>
