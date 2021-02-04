@@ -1,11 +1,11 @@
-Started on May 20, 2020 9:23:40 AM
-Started by event from 140.82.115.250 ⇒ http://datatables.ngrok.io:8080/github-webhook/ on Wed May 20 09:23:40 UTC 2020
+Started on 01-Feb-2021 11:59:26
+Started by event from 140.82.115.145 ⇒ http://datatables.ngrok.io:8080/github-webhook/ on Mon Feb 01 11:59:26 GMT 2021
 Using strategy: Default
-[poll] Last Built Revision: Revision e506dc08fc9e86afb96276c0fa2ba10e3cbd5fe1 (refs/remotes/origin/master)
+[poll] Last Built Revision: Revision a95d9e44e522baca58f5706e6f560071e60b9419 (refs/remotes/origin/master)
 No credentials specified
  > git --version # timeout=10
  > git ls-remote -h git@github.com:DataTables/SearchBuilder.git # timeout=10
 Found 1 remote heads on git@github.com:DataTables/SearchBuilder.git
-[poll] Latest remote head revision on refs/heads/master is: f4a54a0b9a2ec704d0cf3fcc76331459c0f8b85d
-Done. Took 1 sec
+[poll] Latest remote head revision on refs/heads/master is: 5258eef82721927c948dd82951e03b4fadb889ea
+Done. Took 1.2 sec
 Changes found

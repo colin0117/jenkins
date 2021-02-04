@@ -1,10 +1,10 @@
-Started on May 28, 2020 11:22:53 AM
+Started on 07-Jan-2021 20:41:17
 Using strategy: Default
-[poll] Last Built Revision: Revision fdd690c620e64f213be931f11ad405701044c24b (refs/remotes/origin/master)
+[poll] Last Built Revision: Revision e00e8b51cbe029f476e7749073c81805d825de33 (refs/remotes/origin/master)
 No credentials specified
  > git --version # timeout=10
  > git ls-remote -h git@bitbucket.org:sprymedia/cloudtables.git # timeout=10
-Found 2 remote heads on git@bitbucket.org:sprymedia/cloudtables.git
-[poll] Latest remote head revision on refs/heads/master is: ec2fd65dfb889f634a89d0d380f07c6ebdd8cbfc
+Found 14 remote heads on git@bitbucket.org:sprymedia/cloudtables.git
+[poll] Latest remote head revision on refs/heads/master is: 258dcd1b96289f42ece70e608f6ef870f1dedff7
 Done. Took 1.1 sec
 Changes found
